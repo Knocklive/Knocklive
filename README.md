@@ -7,4 +7,4 @@ Hi 👋 I’m Knocklive from Austria
 
 <a href="https://top.gg/bot/847972974786248704"><img src="https://top.gg/api/widget/847972974786248704.svg" alt="LabyCheck" class="center"></a>
 
-<iframe width="560" height="315" src="https://knocklive.de" title="Knocklive.de" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://knocklive.de"</iframe>
