@@ -4,3 +4,7 @@ Hi 👋 I’m Knocklive from Austria
 - 🌍 You can find my Website [here](https://knocklive.de) and my Documentation [here](https://docs.knocklive.de) :)
 - 💙 You can follow me on Instagram :) [@pedaaaaaaaaa](https://instagram.com/pedaaaaaaaaa)
 - 📫 You can reach me on Discord: Knocklive#5165
+
+<a href="https://top.gg/bot/847972974786248704">
+  <img src="https://top.gg/api/widget/847972974786248704.svg">
+</a>
