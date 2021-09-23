@@ -6,5 +6,3 @@ Hi 👋 I’m Knocklive from Austria
 - 📫 You can reach me on Discord: Knocklive#5165
 
 <a href="https://top.gg/bot/847972974786248704"><img src="https://top.gg/api/widget/847972974786248704.svg" alt="LabyCheck" class="center"></a>
-
-<iframe src="https://knocklive.de/"</iframe>
