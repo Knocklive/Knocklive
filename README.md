@@ -5,4 +5,4 @@ Hi 👋 I’m Knocklive from Austria
 - 💙 You can follow me on Instagram :) [@pedaaaaaaaaa](https://instagram.com/pedaaaaaaaaa)
 - 📫 You can reach me on Discord: Knocklive#5165
 
-<center><a href="https://top.gg/bot/847972974786248704"><img src="https://top.gg/api/widget/847972974786248704.svg"></a></center>
+<a href="https://top.gg/bot/847972974786248704"><img src="https://top.gg/api/widget/847972974786248704.svg" alt="LabyCheck" class="center"></a>
