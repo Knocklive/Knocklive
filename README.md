@@ -6,5 +6,8 @@ Hi 👋 I’m Knocklive from Austria
 - 📫 You can reach me on Discord: Knocklive#5165
 - 📬 Or create a Ticket on the [LabyCheck Support Server](https://dc.labycheck.de) :)
 - 🎈 You can also write me an email :) admin@knocklive.de
-
-<a href="https://top.gg/bot/847972974786248704"><img src="https://top.gg/api/widget/847972974786248704.svg" alt="LabyCheck" class="center"></a>
+---
+<a href="https://knocklive.de">
+<img src="https://github-readme-stats.vercel.app/api?username=knocklive&hide=contribs,prs&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knocklive&layout=compact&theme=dark" />
+  </a>
