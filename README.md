@@ -8,6 +8,6 @@ Hi 👋 I’m Knocklive from Austria
 - 🎈 You can also write me an email :) admin@knocklive.de
 ---
 <a href="https://knocklive.de">
-<img src="https://github-readme-stats.vercel.app/api?username=knocklive&hide=contribs,prs&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=knocklive&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knocklive&layout=compact&theme=dark" />
   </a>
